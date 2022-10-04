@@ -1,0 +1,112 @@
+Especialista en Cañones Pesados 4	
+Ataque a Distancia +9% Velocidad de Ataque +11%
+Acuchillador de Bandidos Norteños, Tucán Níveo, Bestia León Montañés, Tirador Norteño, Kappa	66
+
+Especialista de Maquinaria Ligera 4	
+Daño de Ataque Estándar con Arma Mecánica de 1 Mano +10%
+Velocidad de Ataque +16%
+Asesino de Bandidos Norteños, Tucán Gruñón, Bestia León Remolino, Carnicero Norteño, Conejo Gomita Primaveral	66
+
+Especialista de Maquinaria Pesada 4	
+Daño de Ataque Estándar con Arma Mecánica de 2 Manos +11%
+Daño Crítico +24%
+Guerrero Hombre Lobo Nido Negro, Soldado Elite Rojo, Hombre-Simio de Metal Ligero, Jefe de Bandidos Norteños, Conejo Gomita Sakura	66
+
+Amplificación de Armadura 4	
+Tasa de Ataque Crítico Recibido -11% Daño Crítico Recibido -25%	
+Vigilante Hombre-Pez Estrecho Invernal, Momia Cruel, Alma Blindada Terrenal	69
+
+Amplificación Psiónica 4	
+Duración del Rendimiento Superior - Núcleo de Relámpagos + 5 seg.	
+Guardia Hombre-Pez Estrecho Infernal, Alma del Pirata Muerto, Alma Blindada Celestial	69
+
+Amplificación de armas gemelas 4	
+Daño de Espadas Gemelas +19% Tasa de Ataque Crítico +6%	
+Estegosaurio Gigante, Zombi Deforme, Lobo Blanco Montañés Takietsu	69
+
+Mejora de Perforación de Armadura 4	
+Daño Físico +15%	
+Cría de Dragón Helado, <Anciano> Espíritu Viento Helado	72
+
+Mejora mecánica 4	
+Malicia +40% Daño recibido -15%
+Héroe Caído Demoníaco, Pez Aleta Salvaje Gigante> Pez Aleta Salvaje	72
+
+Mejora de Reutilización 4	
+Al recibir un ataque, 26% de posibilidades de que el tiempo de reutilización de tus skills se reduzca en 0,8 seg.	
+Anciano Hombre de las Nieves Gris, Dragón Congelado, <Lobo Congelado Alfa>
+Lobo Congelado Aguja, Lobo Blanco Montañés Takietsu 72
+
+Interferencia de Precisión 2	
+Si tus ataques alcanzan a un enemigo con 3 acumulaciones del efecto Interferencia Electromagnética, la tasa de Hit se reduce en un 25%. Duración: 8 seg.
+Flor de Pantano Come-Insectos, Gólem Guerrero Sanguinario, <Rey León Avaro>Leonardo, Simio Cruz Negra.	80
+
+Interferencia de Fisión 2	
+Si tus ataques alcanzan a un enemigo con 3 acumulaciones del efecto Interferencia Electromagnética, 12% de posibilidades de eliminar uno de los efectos negativos que te afecten.	
+León Despiadado, Vándalo Septentrional, <Bestia Furiosa> Esfinge, Hombre Lobo Garra Afilada.	80
+
+Interferencia de Defensa 2	
+Si tus ataques alcanzan a un enemigo con 3 acumulaciones del efecto Interferencia Electromagnética, su DEF se reducirá en un 4%. Duración: 8 seg.	
+León Voraz, Gólem Guerrero Místico, <Revoltoso Septentrional> Batuta, Simio Cruz Roja	80
+
+Defensa Critica 1	
+Tus ataques críticos tienen un 15% de posibilidades de generar un escudo que bloquea el siguiente ataque.
+Lv. 71 Esqueleto Alacrán Bandido
+Cajero Valoración Tesoros André 70
+
+Regeneración Critica 1	
+Al recibir daño crítico, recuperas un 3% de tus HP. 	
+Ermitaño de la Torre Fénix	70
+
+Perforación Critica 1	
+Tus ataques críticos pueden aumentar el Daño Físico en un 7% durante 8 segundos.	Cajero de Asociación Petrahierro Hatt 
+Lv. 71 Esqueleto Alacrán Guerrero 66
+
+Modificación de Triturador 1	
+Malicia causada por daño +15%. Tus skills tienen un 10% de posibilidades de causar un ataque doble.	
+Lv. 76 Araña Cristal de Hielo	73
+
+Modificación Mecánica 1	
+STR +15 AGI +10	
+Lv. 76 Demonio Ardiente 
+Cajero de la Academia de Magia Noe  73
+
+Modificación de Armadura 1	
+Todas las Resistencias +20%	
+Lv. 77 Demonio de las Profundidades
+Cajero de Asociación Petrahierro Hatt 73
+
+Furia Eterna 1	
+Duración del aturdimiento causado por Ataque Sin Fin +0,5 seg.	
+Rey León del Infierno, <Examina-Huesos> Krova, <Fantasma del Lamento> Sean, <Rey Troll Tres-Rostros> Urzara.	77
+
+Cortes Interminables 1	
+Daño de Espadas Gemelas +3% Tasa de Ataque Crítico Físico +3%	
+Espíritu Atormentado, <El Favorito de los Glotones> Mantarraya Malcos, <Terror a la Deriva> Rey Demonio Vani.	77
+
+Regeneración Eterna 1	
+Al utilizar la skill Núcleo Transformador - Vida, podrías recuperar un 5% de HP y un 10% de MP.	
+Caballero Despiadado, <Guardián Polar> Conejo Picarón Sam, <Fusión de Conceptos> Dragón Tóxico Asasal.	77
+
+
+________________________________________ pixel____________________
+
+EAAG06KmRzZBYBANQUBtoLUhXOGP9KZBGWTTZBhXpdbxmtkPsdq3ZCslGlxYnfqxuBZBGHr7IMwAcH3usJNkX6YeZCLwdaj0A4ZB2IC6UPfJOcaaVopMxZBFR2rdQhcgs5sCRRhb1vGNP29SxSkqBYcc3jyFQRn7nJWbL875VAqKg0EXirmKtA6J8HzGM8MnfghcZD
+
+#387975 - verde oscuro
+#000000 - negro
+#ffffff - blanco
+#131113 - gris oscuro
+#0B0D11 - azul oscuro
+
+__________________________________________________________________
+peliculas
+
+
+
+
+
+
+
+
+
